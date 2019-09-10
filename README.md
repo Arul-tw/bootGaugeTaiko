@@ -1,1 +1,3 @@
 # bootGaugeTaiko
+
+Lets learn Git
